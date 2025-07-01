@@ -1,6 +1,6 @@
 # 📊 Excel Data Jobs Dashboard
 
-An interactive Excel dashboard that analyzes job listings in the data industry — focusing on job roles, average salaries, required skills, job sources, and monthly trends across countries.
+This Excel dashboard project analyzes 2023 job market data focused on data-related roles. It uses Power Query for cleaning and transforming raw data, and Power Pivot to model relationships and build efficient calculations. Interactive visuals include job listings by title, average salary by role and country, skill demand, and posting trends across months and platforms.
 
 ---
 
