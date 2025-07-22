@@ -40,11 +40,6 @@ All insights are presented in a dynamic, slicer-controlled dashboard.
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![Dashboard Screenshot](excel_dashboard.png)
-
----
 
 ## 🛠️ Tools Used
 
@@ -56,21 +51,8 @@ All insights are presented in a dynamic, slicer-controlled dashboard.
 
 ---
 
+## 🖼️ Dashboard Preview
 
-## 🎯 Use Case
-
-This dashboard is ideal for:
-- Job seekers analyzing demand
-- HR teams tracking market trends
-- Students and professionals showcasing Excel data skills
-- Portfolio and interview preparation
-
----
-
-## 🧑‍💻 Author
-
-**Visal Adithya**  
-📍 Sri Lanka  
-🔗 [LinkedIn](#)
+![Dashboard Screenshot](excel_dashboard.png)
 
 ---
