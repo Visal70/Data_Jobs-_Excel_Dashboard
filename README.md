@@ -53,6 +53,6 @@ All insights are presented in a dynamic, slicer-controlled dashboard.
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](excel_dashboard.png)
+![Dashboard Screenshot](Excel-Dashboard.png)
 
 ---
