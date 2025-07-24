@@ -13,6 +13,7 @@ This project explores:
 - Job posting trends by month
 - Top 5 job platforms
 - Country-based filtering (e.g., United States)
+- Explore distribution of jobs by schedule type
 
 All insights are presented in a dynamic, slicer-controlled dashboard.
 
@@ -32,11 +33,11 @@ All insights are presented in a dynamic, slicer-controlled dashboard.
 ## 📌 Key Insights
 
 - 📌 **Data Analyst** is the most advertised job title across platforms.
-- 💰 **Average salary** is highest for **Data Engineers**, especially in full-time roles.
-- 🧠 **Python**, **SQL**, and **communication skills** are the top 3 required skills.
-- 🌍 Most job listings are concentrated in **United States** and **Australia**.
-- 📅 Job postings peak during **mid-year months** (June to August).
-- 🔗 **LinkedIn** and **Indeed** are the top job posting platforms.
+- 💰 **Average salary** is highest for **Senior Data Scientist**.
+- 🧠 **Python** and **SQL** are the top 2 required skills.
+- 📅 Job postings peak during mid-year months (June to August).
+- 💼 Most jobs are **Full-time**, showing high demand for stable, long-term roles in the market.
+- 🔗 **LinkedIn** ,**Ai-Jobs.net** and **Indeed** are the top job posting platforms.
 
 ---
 
